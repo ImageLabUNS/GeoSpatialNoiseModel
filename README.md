@@ -9,7 +9,7 @@ For accessing the dashboard, please visit: [https://ssdash.imaglabs.org](https:/
 
 # Authors
 
-+ Ciro Martinez (cmartinez@cenpat-conicet.gob.ar)
++ Ciro Martinez 
 + Debora Pollicelli
 + Juan Bajo (jmb@cs.uns.edu.ar)
 + Sharolyn Anderson
